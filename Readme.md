@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [CustomCommand.cs](./CS/CustomCommand/CustomCommand.cs) (VB: [CustomCommand.vb](./VB/CustomCommand/CustomCommand.vb))
-* [MainPage.xaml](./CS/CustomCommand/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/CustomCommand/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/CustomCommand/MainPage.xaml) (VB: [MainPage.xaml](./VB/CustomCommand/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/CustomCommand/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CustomCommand/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to replace standard DXRichEdit command with your own custom command
